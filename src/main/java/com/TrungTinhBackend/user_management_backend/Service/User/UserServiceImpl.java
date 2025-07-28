@@ -1,4 +1,4 @@
-package com.TrungTinhBackend.user_management_backend.Service;
+package com.TrungTinhBackend.user_management_backend.Service.User;
 
 import org.springframework.stereotype.Service;
 
